@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CodeWithNinja
+- 👀 I’m interested in - Teaching, Web-Developement, Graphics Designing, Programming
+- 🌱 I’m currently learning - New Tecnologies
+- 💞️ I’m looking to collaborate on - Programming
+- 📫 How to reach me - ninja.codewithninja@gmail.com
+- Checkout my Youtube : https://www.youtube.com/channel/UCKqij3fsLOMCzKfdvCBa-mQ
+- Checkout my Instagram : https://www.instagram.com/code_with_ninja
