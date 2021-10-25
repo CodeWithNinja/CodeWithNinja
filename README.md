@@ -2,12 +2,9 @@
 
 Code With Ninja is my attempt to teach basics and those coding techniques to people in short time which took me ages to learn. At Code With Ninja, I provide a quick and to the point demo along with resources of anything and everything I teach. Source code and other resources are hosted on my GitHub. I provide source code(if any) in the description of every video. Quality programming videos in Hindi :)
 
-### Markdown
+### Code !!
 
 ```markdown
-Syntax highlighted code block
-
-
 import pyttsx3
 def speak(text):
   pyttsx3.speak(text)
