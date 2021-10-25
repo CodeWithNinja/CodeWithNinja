@@ -23,17 +23,3 @@ speak(sentence2)
 ```
 
 Checkout My Youtube Channel : (https://www.youtube.com/channel/UCKqij3fsLOMCzKfdvCBa-mQ).
-
-### About Me ⬇️⬇️
-
-👋 Hi, I’m @CodeWithNinja
-👀 I’m interested in - Teaching, Web-Developement, Graphics Designing, Programming
-🌱 I’m currently learning - New Tecnologies
-💞️ I’m looking to collaborate on - Programming
-📫 How to reach me - ninja.codewithninja@gmail.com
-Checkout my Github : https://github.com/CodeWithNinja
-Checkout my Youtube : https://www.youtube.com/channel/UCKqij3fsLOMCzKfdvCBa-mQ
-Checkout my Instagram : https://www.instagram.com/code_with_ninja
-Checkout my Personal Github : https://www.github.com/iamkoustav
-Checkout my Twitter : https://www.twitter.com/CodeWithNinja
-Checkout my another Youtube : https://www.youtube.com/LearningTechie
